@@ -1,0 +1,10 @@
+.form-control{
+  display: inline-block;
+  width: auto;
+}
+.container{
+  /*background-color: rgb(117, 205, 237);*/
+}
+p{
+  display: inline-block;
+}
